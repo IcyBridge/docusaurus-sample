@@ -15,6 +15,8 @@ Uutta tietoa projektista.
  - Verkkosivut
  - Dokumentaatio
 
+
+
 It builds your site as simple **static HTML, JavaScript and CSS files**.
 
 ## Build your site
@@ -39,6 +41,6 @@ The `build` folder is now served at [http://localhost:3000/](http://localhost:30
 
 You can now deploy the `build` folder **almost anywhere** easily, **for free** or very small cost (read the **[Deployment Guide](https://docusaurus.io/docs/deployment)**).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMzk5MDE3OCwyMTU5MjU0MTcsLTE5ND
-IwMDY0MzZdfQ==
+eyJoaXN0b3J5IjpbLTg0NzQ3NTkwLDIxNTkyNTQxNywtMTk0Mj
+AwNjQzNl19
 -->
