@@ -8,7 +8,7 @@ Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
 
-Get started by **creating a new site**. ***Muutokset on tehty Stackedit-palvelulla!***
+Get started by **creating a new site**. 
 
 Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
@@ -46,5 +46,5 @@ The `npm run start` command builds your website locally and serves it through a 
 
 Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODI4NDg3NzNdfQ==
+eyJoaXN0b3J5IjpbLTYzMjQ0MTAwOSwtMTM4Mjg0ODc3M119
 -->
