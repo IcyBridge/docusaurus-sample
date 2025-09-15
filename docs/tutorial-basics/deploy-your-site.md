@@ -12,10 +12,12 @@ Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jams
 
 Uutta tietoa projektista. 
 
- - Verkkosivut
- - Dokumentaatio
-
-
+ 1. Verkkosivut
+ 2. Dokumentaatio
+ 3. [ ] 
+ 4. [ ] 
+ 5. [ ] 
+ 6. List item
 
 It builds your site as simple **static HTML, JavaScript and CSS files**.
 
@@ -41,6 +43,6 @@ The `build` folder is now served at [http://localhost:3000/](http://localhost:30
 
 You can now deploy the `build` folder **almost anywhere** easily, **for free** or very small cost (read the **[Deployment Guide](https://docusaurus.io/docs/deployment)**).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NzQ3NTkwLDIxNTkyNTQxNywtMTk0Mj
-AwNjQzNl19
+eyJoaXN0b3J5IjpbLTU4MDY1OTU1MCwtODQ3NDc1OTAsMjE1OT
+I1NDE3LC0xOTQyMDA2NDM2XX0=
 -->
